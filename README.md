@@ -10,3 +10,4 @@ I'm excited to share with you my latest project: a comprehensive sound library t
    - **UPiano1** (Upright piano)   
    - **UPiano2** (Upright enhanced piano)
    
+   [Comparing UPiano2 and Supernatural Concert Grand 2](https://youtu.be/2mzMwliFT_Q)
